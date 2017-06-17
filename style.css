@@ -1,0 +1,17 @@
+canvas{
+  border:1px solid grey;
+  background-color: pink;
+}
+
+body{
+	text-align:center;
+}
+
+.board{
+  display: inline-grid;
+  align-self: center;
+}
+
+.row{
+  display: flex;
+}
