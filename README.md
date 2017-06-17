@@ -1,2 +1,2 @@
 # tic-tac-toe-classic
-C
+Classic version of Tic Tac Toe game
